@@ -12,14 +12,14 @@ I build and ship client websites end to end — landing pages, business sites an
 
 | Project | What it is |
 |---|---|
-| [verno-dev.com](https://verno-dev.com) | My studio site: portfolio, services, RU/EN, prerendered React |
-| [leadconveer](https://github.com/pafuluofu-dev/leadconveer) | Lead-generation service redesign, hand-coded from a Figma file |
-| [japans-goods-e-store](https://github.com/pafuluofu-dev/japans-goods-e-store) | Storefront with cart, filtering and checkout flow |
-| [workout-diary](https://github.com/pafuluofu-dev/workout-diary) | Training log that pins sessions to a map |
-| [createx-construction](https://github.com/pafuluofu-dev/createx-construction) | Multi-page corporate site, responsive from 320px |
-| [react19-hooks-lesson](https://github.com/pafuluofu-dev/react19-hooks-lesson) | Interactive lesson on the React 19 hooks |
+| **Alpha School** — [live](https://alpha-school.ch) | Course platform for a Python school in production: levelled catalogue, mentor profiles, student reviews, blog and merch store. 6,000+ students |
+| **Лид Конвейер** — [live](https://verno-dev.com/leadconveer/) · [code](https://github.com/pafuluofu-dev/leadconveer) | 14-section sales site hand-coded from a Figma redesign — BEM, accordion on native `details`, scroll-snap step slider, brand shapes traced into SVG one to one |
+| **Createx Construction** — [live](https://pafuluofu-dev.github.io/createx-construction/) · [code](https://github.com/pafuluofu-dev/createx-construction) | Multi-page corporate site from a Figma mockup: Sass architecture, vanilla-JS sliders and animated counters, validated forms |
+| **MoneyPort** — [live](https://pafuluofu-dev.github.io/tilda-moneyport/) · [code](https://github.com/pafuluofu-dev/tilda-moneyport) | Cross-border B2B payments service page — multi-currency settlement flow, trust block, FAQ accordion, callback form |
+| **Japan's Goods** — [live](https://pafuluofu-dev.github.io/japans-goods-e-store/) · [code](https://github.com/pafuluofu-dev/japans-goods-e-store) | Storefront with cart, filtering and a full checkout flow |
+| **ATLAS** — [live](https://pafuluofu-dev.github.io/workout-diary/) · [code](https://github.com/pafuluofu-dev/workout-diary) | Workout log that pins every run, ride, ski or swim to the map where it happened, kept in local storage |
 
-Tilda and landing page work lives in the `tilda-*` repositories; each one has a live demo link in its description.
+More client landing pages live in the `tilda-*` repositories — each one has its demo linked in the description.
 
 ---
 
